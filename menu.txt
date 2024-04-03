@@ -1,0 +1,9 @@
+A1 Antipasto_di_terra 7;
+A2 Antipasto_di_mare 8;
+A3 Antipasto_di_cavallo 8;
+P1 Spaghetti_alle_vongole 10;
+P2 Rigatoni_all'amatriciana 6;
+S1 Frittura_di_calamari 20;
+S2 Arrosto_misto 15;
+D1 Crostata_di_mele 5;
+D2 Zuppa_inglese 5;
